@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@300&family=Noto+Sans+JP:wght@300&display=swap");
+
+@import url("components/container.css");
+@import url("components/logo.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+body { 
+	font-family: 'Barlow', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1, h3 {
+	font-family: 'Noto Sans JP', sans-serif;
+	font-weight: bold;
+}
+
+h2 {
+	font-family: 'Noto Sans JP', sans-serif;
+	font-weight: bold;
+	color: #e05f34;
+}
+
+a{ 
+	text-decoration: none;
+
+}
